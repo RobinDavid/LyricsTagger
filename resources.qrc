@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="icon.png">images/icon.png</file>
+<file alias="exit.png">images/exit.png</file>
+<file alias="newf.png">images/newf.png</file>
+<file alias="newd.png">images/newd.png</file>
+<file alias="help.png">images/help.png</file>
+</qresource>
+</RCC>
